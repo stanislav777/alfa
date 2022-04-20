@@ -42,6 +42,4 @@ public class MainPage extends Form {
     public void qxf2ServicesLinkClick() {
         qxf2ServicesLink.click();
     }
-
-
 }
